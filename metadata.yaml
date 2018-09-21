@@ -1,0 +1,24 @@
+_repo: The-Hospital-Bulletin-Vol-V-No-2-April-15-1909_53827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2016-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Periodicals'
+- !lcsh 'Medical colleges -- Alumni and alumnae -- Maryland -- Baltimore -- Periodicals'
+- !lcc 'R'
+- GITenberg
+title: The Hospital Bulletin, Vol. V, No. 2, April 15, 1909
+url: http://www.gutenberg.org/ebooks/53827
